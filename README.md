@@ -1,4 +1,5 @@
 # Desafio Target 
+
 ### 3. Observe o trecho de código abaixo:
 ```bash
 int INDICE = 13, SOMA = 0, K = 0;
@@ -57,6 +58,7 @@ os interruptores restantes e para isso, deixo um ligado e outro desligado e
 então faço minha segunda ida a sala e então descubro os dois restantes.
 ```
 
+### As outras questões que envolviam códigos estão em arquivos separados e a linguagem escolhida foi C.
 
 
 
